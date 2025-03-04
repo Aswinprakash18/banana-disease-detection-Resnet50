@@ -71,5 +71,4 @@ Future Improvements
 
 
 
-Contributors
-🚀 Developer & Researcher- aswin prakash and siva sreeram
+
